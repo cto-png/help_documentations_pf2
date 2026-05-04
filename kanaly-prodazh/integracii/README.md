@@ -87,6 +87,8 @@ layout:
 
 [Фасти](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/fasti)
 
+[Torrow](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/torrow)
+
 </details>
 
 <details>

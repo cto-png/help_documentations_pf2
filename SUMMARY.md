@@ -45,6 +45,7 @@
     * [Планерка](kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/planerka.md)
     * [CBiletom](kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/cbiletom.md)
     * [Фасти](kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/fasti.md)
+    * [Torrow](kanaly-prodazh/integracii/servisy-onlain-zapisi-i-raspisanii/torrow.md)
   * [Сервисы для чат-ботов](kanaly-prodazh/integracii/servisy-dlya-chat-botov/README.md)
     * [PuzzleBot](kanaly-prodazh/integracii/servisy-dlya-chat-botov/puzzlebot.md)
     * [WinWinBot](kanaly-prodazh/integracii/servisy-dlya-chat-botov/winwinbot.md)
