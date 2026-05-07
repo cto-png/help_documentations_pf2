@@ -110,6 +110,7 @@ layout:
 * [Botmaker](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-dlya-chat-botov/botmaker)
 * [BOT-T](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-dlya-chat-botov/bot-t)
 * [Савви](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-dlya-chat-botov/savvi)
+* [Smartbotpro](https://help.prodamuspay.ru/kanaly-prodazh/integracii/servisy-dlya-chat-botov/smartbotpro)
 
 </details>
 

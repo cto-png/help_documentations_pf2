@@ -62,6 +62,7 @@
     * [Botmaker](kanaly-prodazh/integracii/servisy-dlya-chat-botov/botmaker.md)
     * [BOT-T](kanaly-prodazh/integracii/servisy-dlya-chat-botov/bot-t.md)
     * [Савви](kanaly-prodazh/integracii/servisy-dlya-chat-botov/savvi.md)
+    * [Smartbotpro](kanaly-prodazh/integracii/servisy-dlya-chat-botov/smartbotpro.md)
   * [Сервисы для автоматизации подписок в телеграм](kanaly-prodazh/integracii/servisy-dlya-avtomatizacii-podpisok-v-telegram/README.md)
     * [Toolsy](kanaly-prodazh/integracii/servisy-dlya-avtomatizacii-podpisok-v-telegram/toolsy.md)
     * [Nemiling](kanaly-prodazh/integracii/servisy-dlya-avtomatizacii-podpisok-v-telegram/nemiling.md)

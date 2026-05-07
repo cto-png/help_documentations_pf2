@@ -55,3 +55,7 @@
 {% content-ref url="savvi.md" %}
 [savvi.md](savvi.md)
 {% endcontent-ref %}
+
+{% content-ref url="smartbotpro.md" %}
+[smartbotpro.md](smartbotpro.md)
+{% endcontent-ref %}
