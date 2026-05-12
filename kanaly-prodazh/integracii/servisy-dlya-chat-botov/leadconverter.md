@@ -77,6 +77,25 @@
 
 <figure><img src="../../../.gitbook/assets/9 (4).png" alt=""><figcaption></figcaption></figure>
 
+### Уведомления об оплате
+
+{% hint style="info" %}
+Если у вас уже настроен адрес для уведомлений об оплате на другой url, то этот блок можно пропустить и сразу перейти к следующему пункту настройки интеграции
+{% endhint %}
+
+Далее добавим в наш платежный кабинет - URL адрес для уведомлений об оплате.
+
+Откройте нужный канал продаж и перейдите в раздел «Уведомления».
+
+<figure><img src="../../../.gitbook/assets/unknown (19).png" alt=""><figcaption></figcaption></figure>
+
+* Включите тумблер «Уведомления о разовых оплатах».&#x20;
+* Вставьте адрес [https://leadconverter.ru/billing/prodamus](https://leadconverter.ru/billing/prodamus)
+* Поставьте галочку в поле «Заказ оплачен»
+* Сохраните изменения.
+
+<figure><img src="../../../.gitbook/assets/unknown (20).png" alt=""><figcaption></figcaption></figure>
+
 ### Настройки чека
 
 Заполните исходя из потребностей Вашей компании.
